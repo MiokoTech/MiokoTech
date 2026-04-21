@@ -15,8 +15,6 @@
 
 ---
 
-## SKILL TREE
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-EBCB8B?style=flat-square&logo=python&logoColor=black)
@@ -32,8 +30,6 @@
 
 ---
 
-## EXP GAUGE
-
 <div align="center">
 
 ![EXP Gauge](https://raw.githubusercontent.com/MiokoTech/MiokoTech/main/exp-gauge.svg)
@@ -41,8 +37,6 @@
 </div>
 
 ---
-
-## BATTLE STATS
 
 <div align="center">
 

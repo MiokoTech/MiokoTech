@@ -50,8 +50,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiokoTech&layout=compact&theme=nord&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiokoTech&theme=nord&hide_border=true)
-
 </div>
 
 ---

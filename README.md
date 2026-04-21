@@ -4,7 +4,7 @@
 # [ MiokoTech ]
 ### `リバースエンジニア` · Reverse Engineer
 
-*// disassemble first, ask questions never*
+* disassemble first, ask questions never*
 
 ![Class](https://img.shields.io/badge/CLASS-REVERSE%20ENGINEER-BF616A?style=for-the-badge)
 ![Tool](https://img.shields.io/badge/TOOL-IDA%20PRO-EBCB8B?style=for-the-badge)
@@ -15,7 +15,7 @@
 
 ---
 
-## >> SKILL TREE
+## SKILL TREE
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## >> EXP GAUGE
+## EXP GAUGE
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-## >> BATTLE STATS
+## BATTLE STATS
 
 <div align="center">
 

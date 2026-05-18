@@ -32,24 +32,6 @@
 
 <div align="center">
 
-![EXP Gauge](https://raw.githubusercontent.com/MiokoTech/MiokoTech/main/exp-gauge.svg)
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiokoTech&show_icons=true&theme=nord&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiokoTech&layout=compact&theme=nord&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
 ![DAY STREAK](https://img.shields.io/badge/🔥_DAY_STREAK-38-EBCB8B?style=flat-square)
 ![COMMITS](https://img.shields.io/badge/⚡_COMMITS-512-88C0D0?style=flat-square)
 ![CVE FINDS](https://img.shields.io/badge/🏴_CVE_FINDS-7-BF616A?style=flat-square)
